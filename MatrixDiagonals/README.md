@@ -1,5 +1,4 @@
 ## Group A - Exercise 1
-***
 
 ### Task
 Implement a `diags(Matrix, DiagsDown, DiagsUp)` predicate:

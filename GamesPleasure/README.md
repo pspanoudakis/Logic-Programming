@@ -35,4 +35,4 @@ The `games` predicate is implemented in `games.pl`, along with several helper pr
 
 This is a typical Constraint Satisfaction Problem, but the use of CSP libraries was not allowed in Group A exercises. On the other hand, Group B exercises are all CSP-based and take advantage of such libraries.
 
-The [Exercise 1 in Group B](../GamesPleasureCSP) is identical, but uses the `ic` and `branch_and_bound` libraries
+[Exercise 2 in Group B](../GamesPleasureCSP) is identical, but uses the `ic` and `branch_and_bound` libraries.

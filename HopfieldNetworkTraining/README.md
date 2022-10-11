@@ -1,5 +1,4 @@
 ## Group A - Exercise 2
-***
 
 ### Context
 A [Hopfield Network](https://en.wikipedia.org/wiki/Hopfield_network) operates recurrently, as following:
