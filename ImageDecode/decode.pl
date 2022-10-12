@@ -4,7 +4,7 @@
 :- lib(ic).
 
 % diags.pl file (ex1) is required
-:- [diags].
+:- ['../MatrixDiagonals/diags.pl'].
 
 % Lecture code --------------------------
 make_matrix(M, N, Matrix) :-
