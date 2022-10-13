@@ -72,13 +72,13 @@ read_pairing(Stream, K, [Flight|Pairing]) :-
    K1 is K-1,
    read_pairing(Stream, K1, Pairing).
 
-datafile(7, 'acsdata/acs197x17').
-datafile(8, 'acsdata/acs294x19').
-datafile(9, 'acsdata/acs404x19').
-datafile(10, 'acsdata/acs434x24').
-datafile(11, 'acsdata/acs467x31').
-datafile(12, 'acsdata/acs577x25').
-datafile(13, 'acsdata/acs619x23').
-datafile(14, 'acsdata/acs626x27').
-datafile(15, 'acsdata/acs711x19').
-datafile(16, 'acsdata/acs685x22').
+datafile(7, './acsdata/acs197x17').
+datafile(8, './acsdata/acs294x19').
+datafile(9, './acsdata/acs404x19').
+datafile(10, './acsdata/acs434x24').
+datafile(11, './acsdata/acs467x31').
+datafile(12, './acsdata/acs577x25').
+datafile(13, './acsdata/acs619x23').
+datafile(14, './acsdata/acs626x27').
+datafile(15, './acsdata/acs711x19').
+datafile(16, './acsdata/acs685x22').

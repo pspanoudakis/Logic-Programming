@@ -1,5 +1,4 @@
 ## Group A - Exercise 3
-***
 
 ### Context
 In an amusement park, there is a number of arcade games. which can be played in a **pre-fixed** order.
