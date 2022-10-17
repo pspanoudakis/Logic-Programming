@@ -5,7 +5,7 @@ An Airline has to schedule $N$ flights during a predefined time period.\
 Each flight can be referenced using an id $(1, 2, 3 ... N)$.
 
 The airline has pre-generated $M$ flight combinations (pairings).\
-Each pairing $P_i$ (where $ 1 \le i \le M$), may include a subset of the flights $1, 2, 3 ... N$. It is **feasible**, and is assigned to a **specific captain**.
+Each pairing $P_i$ (where $1 \le i \le M$), may include a subset of the flights $1, 2, 3 ... N$. It is **feasible**, and is assigned to a **specific captain**.
 
 The task is to select a subset of the available pairings, so that
 each flight is assigned to **exactly 1 captain**.
